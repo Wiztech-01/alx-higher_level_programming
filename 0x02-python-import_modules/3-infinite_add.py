@@ -1,9 +1,11 @@
 #!/usr/bin/python3
-import sys
+from sys import argv
+sum = 0
 
 if __name__ == "__main__":
-    infinite = sys.argv[1:]
-    sum = 0
-    for i in infinite:
-        sum += int(i)
+    for item in argv:
+        if argv.index(item) == 0:
+            continue
+        sum += int(item)
+
     print(sum)
