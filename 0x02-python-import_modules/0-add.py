@@ -1,9 +1,9 @@
 #!/usr/bin/bash
-x = 1
-y = 2
+a = 1
+b = 2
 
 if __name__ == "__main__":
     from add_0 import add
-print("{:d} + {:d} = {:d}".format(x, y, add(x, y)))
+print("{:d} + {:d} = {:d}".format(a, b, add(a, b)))
 
 
