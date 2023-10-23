@@ -16,3 +16,4 @@
 ## Resources
 - [Errors and Exceptions](https://intranet.alxswe.com/rltoken/Yj7sDOzmKwICSHr7WEAW3A)
 - [Learn to Program 11 Static & Exception Handling (starting at minute 7)](https://intranet.alxswe.com/rltoken/xASzXarhF1sBhzYkJ14LvQ)
+- [Youtube](https://www.youtube.com/watch?v=7vbgD-3s-w4)
